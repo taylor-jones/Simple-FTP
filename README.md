@@ -8,8 +8,8 @@ This is a simple client-server FTP program that runs in the console and makes us
 The project consists of the following:
 - a *client* directory, which contains all the files used to create the FTP client.
 - a *server* directory, which contains all the files used to create the FTP server.
-- *ftclient*, a unix executable files used to provide an alias for starting the FTP client.
-- *ftserver*, a unix executable files used to provide an alias for starting the FTP server.
+- *ftclient*, a unix executable file used to provide an alias for starting the FTP client.
+- *ftserver*, a unix executable file used to provide an alias for starting the FTP server.
 - *makefile*, used to trigger compilation of project files.
 - this *README.md*, used to explain the project implementation.
 
