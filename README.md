@@ -23,7 +23,7 @@ Also, within the "server" directory, there is an "examples" directory, which is 
 
 
 
-<br><br><br>
+<br><br>
 
 # Compiling The Program
 - The FTP server is implemented in C++.
@@ -70,7 +70,7 @@ All Clean!
 
 
 
-<br><br><br>
+<br><br>
 
 # Running The Program
 ## FTP Server
@@ -101,7 +101,7 @@ java Main <server-hostname> <control-port> <command> <filename> <data-port>
 
 
 
-<br><br><br>
+<br><br>
 
 # Program Flow
 
@@ -121,7 +121,7 @@ java Main <server-hostname> <control-port> <command> <filename> <data-port>
 
 
 
-<br><br><br>
+<br><br>
 
 # Additional Features
 
