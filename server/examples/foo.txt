@@ -1,0 +1,1 @@
+foo.txt from within the "/examples" folder on the server.
